@@ -149,7 +149,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 /*-- //nav --*/
 
 /*-- //header --*/ 
-.header-outs{   background: url(../images/full_donmil.jpg);
+.header-outs{   background: url(../images/timeline.jpg);
 background-repeat: no-repeat;
   background-attachment: fixed;
     background-position: center;
@@ -399,7 +399,7 @@ background-size:40px;
     background: rgba(0, 255, 255, 0.59);
     position: absolute;
     top: 224px;
-    left: 174px;
+    /* left: 174px; */
 	    width: 76%;
 }
 .agile-abt-info h2 {
@@ -410,9 +410,9 @@ background-size:40px;
     color: #FFEB3B;;
 }
 .info-sub-w3 p{
-    font-size: 15px;
+    font-size: 12px;
     color: #000;
-    line-height: 28px;
+    line-height:20px;
 }
 /*-- counter--*/
 .rate {
@@ -1220,13 +1220,14 @@ footer p {
 }
 @media(max-width:1024px){
 .agile-abt-info h2 {
-    font-size: 45px;
+    font-size: 40px;
 }
 .agile-abt-info h2 {
-    padding-bottom: 12px;
+    padding-bottom: 0px;
 }
 .agile-abt-info {
-    padding: 2.9em 3em;
+    padding: 0em 0em;
+
 }
 .map-grid iframe {
     height: 279px;
@@ -1283,9 +1284,10 @@ li.nav-item {
 .agile-abt-info {
     top: 265px;
     width: 100%;
+	margin-top: 20px;
 }
 .agile-abt-info h2 {
-    font-size: 36px;
+    font-size: 15px;
 }
 .button {
     padding: 3em 2em;
