@@ -149,7 +149,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 /*-- //nav --*/
 
 /*-- //header --*/ 
-.header-outs{   background: url(../images/b1.jpg);
+.header-outs{   background: url(../images/timeline.jpg);
 background-repeat: no-repeat;
   background-attachment: fixed;
     background-position: center;
@@ -455,8 +455,8 @@ span.font{
 /*--//about --*/
 /*--music album --*/
 .music{background:rgba(0, 0, 0, 0.7);}
-.music-img1{background: url(../images/mu1.jpg)no-repeat 0px 0px;}
-.music-img2{background: url(../images/mu2.jpg)no-repeat 0px 0px;}
+.music-img1{background: url(../images/play.jpg)no-repeat 0px 0px;}
+.music-img2{background: url(../images/play.jpg)no-repeat 0px 0px;}
 .music-img3{background: url(../images/mu3.jpg)no-repeat 0px 0px;}
 .music-img4{background: url(../images/mu4.jpg)no-repeat 0px 0px;}
 .music-img5{background: url(../images/mu2.jpg)no-repeat 0px 0px;}
