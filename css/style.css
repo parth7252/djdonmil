@@ -149,7 +149,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 /*-- //nav --*/
 
 /*-- //header --*/ 
-.header-outs{   background: url(../images/timeline.jpg);
+.header-outs{   background: url(../images/b1.jpg);
 background-repeat: no-repeat;
   background-attachment: fixed;
     background-position: center;
@@ -399,7 +399,7 @@ background-size:40px;
     background: rgba(0, 255, 255, 0.59);
     position: absolute;
     top: 224px;
-    /* left: 174px; */
+    left: 174px;
 	    width: 76%;
 }
 .agile-abt-info h2 {
@@ -410,9 +410,9 @@ background-size:40px;
     color: #FFEB3B;;
 }
 .info-sub-w3 p{
-    font-size: 12px;
+    font-size: 15px;
     color: #000;
-    line-height:20px;
+    line-height: 28px;
 }
 /*-- counter--*/
 .rate {
@@ -1220,14 +1220,13 @@ footer p {
 }
 @media(max-width:1024px){
 .agile-abt-info h2 {
-    font-size: 40px;
+    font-size: 45px;
 }
 .agile-abt-info h2 {
-    padding-bottom: 0px;
+    padding-bottom: 12px;
 }
 .agile-abt-info {
-    padding: 0em 0em;
-
+    padding: 2.9em 3em;
 }
 .map-grid iframe {
     height: 279px;
@@ -1284,10 +1283,9 @@ li.nav-item {
 .agile-abt-info {
     top: 265px;
     width: 100%;
-	margin-top: 20px;
 }
 .agile-abt-info h2 {
-    font-size: 15px;
+    font-size: 36px;
 }
 .button {
     padding: 3em 2em;
