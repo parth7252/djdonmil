@@ -10,7 +10,7 @@ html,
 body {
     padding: 0;
     margin: 0;
-    background: #172c3eb8;
+    background: #25042b;
     letter-spacing: 1px;
 font-family: 'Montserrat', sans-serif;
 }
@@ -113,7 +113,7 @@ h1 a.navbar-brand {
     letter-spacing: 2px;
 }
 .navbar-light .navbar-nav .nav-link {
-    color: #000;
+    color: #FFF;
     font-size: 16px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -128,7 +128,7 @@ h1 a.navbar-brand {
 }
 nav.navbar.navbar-toggleable-md.navbar-light {
     padding: .5em 2em;
-    background: #1e4e67a3;
+    background: #78168a;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
     color:rgb(17, 177, 172);
@@ -304,7 +304,7 @@ a {
 }
  .slider-info h4{
 	 font-weight:400;
-    color: #fff;
+    color: #00fff0;
     font-size: 5em;
     letter-spacing: 3px;
 }
@@ -1248,7 +1248,7 @@ div#navbarSupportedContent {
 	z-index: 999;
 		}
 ul.navbar-nav {
-    background:rgba(187, 187, 187, 0.74);
+    background:rgba(23, 28, 29, 0.74);
     width: 100%;
     left: 0px;
     text-align: center;
@@ -1283,7 +1283,7 @@ li.nav-item {
 }
 .agile-abt-info {
     top: 265px;
-    width: 90%;
+    width: 100%;
 }
 .agile-abt-info h2 {
     font-size: 30px;
