@@ -107,7 +107,7 @@ ul {
 h1 a.navbar-brand {
     padding-top: 6px;
     font-size: 37px;
-    color: #000 !important;
+    color: #00fff0 !important;
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 2px;
@@ -128,7 +128,7 @@ h1 a.navbar-brand {
 }
 nav.navbar.navbar-toggleable-md.navbar-light {
     padding: .5em 2em;
-    background: #78168a;
+    background: #25042b;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
     color:rgb(17, 177, 172);
@@ -449,7 +449,7 @@ span.font{
 }
 
 .img-abt img {
-    width: 100%;
+    width: 90%;
 }
 /*-- //counter --*/
 
